@@ -1,3 +1,2 @@
 # Unsupersived-Learning-Projects
-# Customer Segementation is a clustering problem. The model prepared uses K-Means Clustering to segment customers into respective 
-  appropriate group.
+# This repository consists of all data science projects based on unsupervised ml algorithms. 
